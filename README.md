@@ -35,6 +35,7 @@ Bem-vindo ao meu perfil no GitHub! Sou entusiasta de tecnologia, focado em desen
 
 - 🏎️ **[f1-data-tracker](https://github.com/vdmatosalves/f1-data-tracker)** — Aplicação para acompanhamento e análise de dados sobre Fórmula 1.
 - 🎮 **[Projeto-dbz-szpc](https://github.com/vdmatosalves/Projeto-dbz-szpc)** — Projeto de desenvolvimento temático inspirado em Dragon Ball Z.
+- 💻 **[sistema-gerenciamento-c](https://github.com/vdmatosalves/sistema-gerenciamento-c)** — Sistema em C para gestão de funcionários, projetos e gerentes com Tabela Hash e persistência em arquivos.
 
 ---
 
