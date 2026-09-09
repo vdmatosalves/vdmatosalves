@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Sou entusiasta de tecnologia, focado em desen
 - 🎓 Cursando **Bacharelado em Engenharia da Computação**
 - 💡 Áreas de interesse: Desenvolvimento de Software, Sistemas Embarcados, Algoritmos e Estrutura de Dados.
 - 🎯 Focado em aprimorar minhas habilidades em código limpo, arquitetura e boas práticas de desenvolvimento.
-<!-- - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) | [E-mail](mailto:seu-email@exemplo.com) -->
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/vdmatosalves) | [E-mail](matosalvesv@gmail.com) -->
 
 ---
 
@@ -32,12 +32,10 @@ Bem-vindo ao meu perfil no GitHub! Sou entusiasta de tecnologia, focado em desen
 
 ### 📌 Repositórios em Destaque
 
-<!--*(Conforme você for criando projetos, pode adicionar links diretos aqui!)*
+### 📌 Repositórios & Projetos
 
-- 🔗 **[Nome do Projeto 1](./)** — Breve descrição do projeto em 1 frase.
-- 🔗 **[Nome do Projeto 2](./)** — Breve descrição do projeto em 1 frase.
-
----
+- 🏎️ **[f1-data-tracker](https://github.com/vdmatosalves/f1-data-tracker)** — Aplicação para acompanhamento e análise de dados sobre Fórmula 1.
+- 🎮 **[Projeto-dbz-szpc](https://github.com/vdmatosalves/Projeto-dbz-szpc)** — Projeto de desenvolvimento temático inspirado em Dragon Ball Z.
 
 ### 📊 Estatísticas no GitHub
 
